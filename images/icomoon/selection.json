@@ -15,7 +15,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "facebook 1"
+          "facebook"
         ]
       },
       "attrs": [
@@ -24,9 +24,9 @@
         }
       ],
       "properties": {
-        "order": 10,
+        "order": 28,
         "id": 3,
-        "name": "facebook-1",
+        "name": "facebook",
         "prevSize": 32
       },
       "setIdx": 0,
@@ -51,7 +51,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "instagram 2"
+          "instagram"
         ]
       },
       "attrs": [
@@ -63,9 +63,9 @@
         }
       ],
       "properties": {
-        "order": 11,
+        "order": 29,
         "id": 2,
-        "name": "instagram-2",
+        "name": "instagram",
         "prevSize": 32
       },
       "setIdx": 0,
@@ -86,7 +86,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "linkedin 1"
+          "linkedin"
         ]
       },
       "attrs": [
@@ -95,9 +95,9 @@
         }
       ],
       "properties": {
-        "order": 12,
+        "order": 30,
         "id": 1,
-        "name": "linkedin-1",
+        "name": "linkedin",
         "prevSize": 32
       },
       "setIdx": 0,
@@ -118,7 +118,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "twitter 1"
+          "twitter"
         ]
       },
       "attrs": [
@@ -127,9 +127,9 @@
         }
       ],
       "properties": {
-        "order": 13,
+        "order": 31,
         "id": 0,
-        "name": "twitter-1",
+        "name": "twitter",
         "prevSize": 32
       },
       "setIdx": 0,
@@ -162,7 +162,10 @@
       "color": 0,
       "bgColor": 16777215,
       "classSelector": ".icon",
-      "name": "icomoon"
+      "name": "icomoon",
+      "height": 32,
+      "columns": 16,
+      "margin": 16
     },
     "historySize": 50,
     "showCodes": true,
