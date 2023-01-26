@@ -419,7 +419,6 @@ body {
 }
 
 .customer-link:is(:hover, :focus) {
-    fill: var(--customer-link);
     border: 1px solid var(--customer-link);
 }
 
