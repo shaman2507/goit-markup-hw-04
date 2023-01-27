@@ -204,6 +204,7 @@ body {
     display: block;
     justify-content: center;
     margin: auto;
+    cursor: pointer;
 }
 
 .banner-btn:hover,
@@ -251,7 +252,6 @@ body {
 .qualities-img-icon {
     display: flex;
     justify-content: center;
-    
 }
 
 .qualities-img {
@@ -405,9 +405,6 @@ body {
 .main-customer-item {
     width: 168px;
     height: 88px;
-    border: 1px solid var(--main-customer-icon);
-    border-radius: 4px;
-    
 }
 
 .customer-link {
@@ -416,6 +413,8 @@ body {
     height: 100%;
     justify-content: center;
     align-items: center;
+    border: 1px solid var(--main-customer-icon);
+    border-radius: 4px;
 }
 
 .customer-link:is(:hover, :focus) {
@@ -429,8 +428,6 @@ body {
 .main-customer-icon {
     fill: var(--main-customer-icon);
 }
-
-
 
 .footer {
     background: var(--main-title-color);
@@ -468,7 +465,6 @@ body {
 
 .container-footer-soc {
     padding-top: 100px;
-    
 }
 
 .footer-soc-text {
@@ -577,7 +573,6 @@ body {
 
 .project-link {
     text-decoration: none;
-    
 }
 
 .project-img {
